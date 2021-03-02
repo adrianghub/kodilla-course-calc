@@ -1,15 +1,12 @@
 package com.kodilla.test;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+class Calculator {
 
-@SpringBootApplication
-public class Calculator {
-
-
-
-    public  static void main(String[] args) {
-        SpringApplication.run(Calculator.class, args);
+    public int add(int x, int y) {
+        return x + y;
     }
 
+    public int sub(int x, int y) {
+        return x - y;
+    }
 }

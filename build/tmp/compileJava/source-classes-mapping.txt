@@ -1,2 +1,4 @@
-com/kodilla/test/TestApplication.java
- com.kodilla.test.TestApplication
+com/kodilla/test/Calculator.java
+ com.kodilla.test.Calculator
+com/kodilla/test/App.java
+ com.kodilla.test.App
